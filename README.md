@@ -1,4 +1,8 @@
 # Andrew McKenzie
+👨‍🎓 University Of New England - Bachelor of Computer Science (Software Development) <br>
+🗞️ 7.0 GPA / WAM 92.5 <br>
+🇦🇺 Australian Citizen <br>
+🇳🇿 New Zealand Citizen <br>
 
 -------
 #### 🖥️ Visit my profile site at [amdev.me](https://amdev.me)
