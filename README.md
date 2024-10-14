@@ -1,16 +1,17 @@
-## Hi there 👋
+# Andrew McKenzie
 
-<!--
-**AndyMac124/AndyMac124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-------
+#### 🖥️ Visit my profile site at [amdev.me](https://amdev.me)
+-------
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source
+    srcset="https://github-readme-stats-l279.vercel.app/api/top-langs/?username=AndyMac124&layout=compact&theme=dark&langs_count=12&hide=HTML&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-l279.vercel.app/api/top-langs/?username=AndyMac124&layout=compact&langs_count=12&hide=HTML&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-l279.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
