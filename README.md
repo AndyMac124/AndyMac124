@@ -12,12 +12,12 @@ https://github-readme-stats-l279-git-master-andymac124s-projects.vercel.app/
 
 <picture>
   <source
-    srcset="[https://github-readme-stats-l279-git-master-andymac124s-projects.vercel.app/](https://github-readme-stats-l279-git-master-andymac124s-projects.vercel.app/api/top-langs/?username=AndyMac124&layout=compact&theme=dark&langs_count=12&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000"
+    srcset="https://github-readme-stats-l279.vercel.app/api/top-langs/?username=AndyMac124&layout=compact&theme=dark&langs_count=12&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-l279-git-master-andymac124s-projects.vercel.app/api/top-langs/?username=AndyMac124&layout=compact&langs_count=12&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000"
+    srcset="https://github-readme-stats-l279.vercel.app/api/top-langs/?username=AndyMac124&layout=compact&langs_count=12&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-l279-git-master-andymac124s-projects.vercel.app/api?username=AndyMac124&show_icons=true" />
+  <img src="https://github-readme-stats-l279.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
