@@ -6,7 +6,7 @@
 🇳🇿 New Zealand Citizen <br>
 
 ### Java - Python - SQL - AWS
-UNIX - Docker - Deep Learning
+UNIX - Docker - Deep Learning - C
 
 -------
 #### 🖥️ Visit my profile site at [amdev.me](https://amdev.me)
