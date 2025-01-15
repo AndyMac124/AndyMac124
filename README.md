@@ -8,8 +8,6 @@
 #### 🖥️ Visit my profile site at [amdev.me](https://amdev.me)
 -------
 
-https://github-readme-stats-l279-git-master-andymac124s-projects.vercel.app/
-
 <picture>
   <source
     srcset="https://github-readme-stats-l279.vercel.app/api/top-langs/?username=AndyMac124&layout=compact&theme=dark&langs_count=12&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000"
