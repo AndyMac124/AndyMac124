@@ -1,16 +1,11 @@
 # Andrew McKenzie
 ### Software Engineer
 👨‍🎓 University Of New England - Bachelor of Computer Science (Software Development) <br>
-🗞️ 7.0 GPA / WAM 92.5 <br>
 🇦🇺 Australian Citizen <br>
 🇳🇿 New Zealand Citizen <br>
 
 ### Java - Python - SQL - AWS
 UNIX - Docker - Deep Learning - C
-
--------
-#### 🖥️ Visit my profile site at [amdev.me](https://amdev.me)
--------
 
 <picture>
   <source
