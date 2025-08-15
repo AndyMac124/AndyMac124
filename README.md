@@ -4,7 +4,7 @@
 🇦🇺 Australian Citizen <br>
 🇳🇿 New Zealand Citizen <br>
 
-### Java - Python - SQL - AWS
+### AWS - Python - Git - Scrum
 UNIX - Docker - Deep Learning - C
 
 <picture>
