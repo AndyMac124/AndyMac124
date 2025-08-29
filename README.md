@@ -4,8 +4,7 @@
 🇦🇺 Australian Citizen <br>
 🇳🇿 New Zealand Citizen <br>
 
-### AWS - Python - Git - Scrum
-UNIX - Docker - Deep Learning - C
+### AWS - React + TS - C# - Git
 
 <picture>
   <source
